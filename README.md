@@ -96,17 +96,7 @@ precision recall f1-score support
 
 ---
 
-## 📁 File Structure
 
-├── Random Forest Project.ipynb # Jupyter notebook with full analysis
-├── loan_data.csv # Cleaned LendingClub loan dataset
-└── README.md # Project summary
-
-yaml
-Copy
-Edit
-
----
 
 ## 📚 Acknowledgements
 
